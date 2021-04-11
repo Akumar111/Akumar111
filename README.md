@@ -4,7 +4,6 @@
 - 👯 I’m looking to collaborate on GitHub
 - 🤔 I’m looking for help with Internships
 - 💬 Ask me about DS & Algo
-- 📫 How to reach me: [Email](akumar11@mt.iitr.ac.in)  ([Anup Kumar | LinkedIn](https://www.linkedin.com/in/akhere2504/)).
+- 📫 How to reach me: ([Anup Kumar | LinkedIn](https://www.linkedin.com/in/akhere2504/)).
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: If I could get paid to blog about anything, I’d write about how Lionel Messi is the G.O.A.T.
--->
